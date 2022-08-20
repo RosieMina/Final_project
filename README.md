@@ -12,3 +12,8 @@
 3) Which regions(contidents, 1st world v 3rd world) of the world are committing suicide at the higher rate?
 4) Does the country's economic state(GDP) affet suicide rates?
 5) Over the years has suicides and bad mental health become a silect pandemic?
+
+
+## Communication Method
+
+- As a team we communicate through slack and on a GC through text, we connect on Wednesdays for 3 hours to work on the project and we utilize the time in class. Everyone has a role, we also help each other with our roles when needed. 
