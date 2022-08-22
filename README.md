@@ -23,5 +23,14 @@
 - As a team we communicate through slack and on a GC through text, we connect on Wednesdays for 3 hours to work on the project and we utilize the time in class. Everyone has a role, we also help each other with our roles when needed. 
 
 
+## Resources
+- "Suicide Rates Overview 1985 - 2016" 
+  - (https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016?resource=download)
+- mlenv
+- Jupyter Notbook
+- Tableau
+
+
+
 
 
