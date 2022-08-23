@@ -42,7 +42,6 @@ Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
 
 ## Reported Suicides Throughout Time
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/dec8e6c30848d989d538013042fbad8ce41125ca/images/Time.png)
-![image](https://user-images.githubusercontent.com/101606295/186284634-b580085d-9b9a-46b2-8535-f7b82c6f34e7.png)
 
 
 
