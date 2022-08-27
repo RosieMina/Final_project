@@ -32,7 +32,7 @@
 Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
 
 ## Suicides Rates Based on Gender
-![name-of-you-image](https://github.com/RosieMina/Final_project/blob/35ea0fef9bd842ca351f61bc6c37c90f96f26682/images/Gender.png)
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/03d8d556a0c7ce0a2ad1e252c90bd760c902e7d3/images/Gender2.png)
 
 ## Suicide Rates Based on Generation
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/6607b39b3ffad2c9b86a4fe3aa3c40c787d77f15/images/Generation.png)
