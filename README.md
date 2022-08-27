@@ -47,7 +47,7 @@ Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/adcba0a1598e94df148c44c8f261f25a6246b0cc/images/GDP.png)
 
 ## Suicide Rates by Age
-![name-of-you-image]
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/c904afee422de5356643ed0669cb70ea213660b6/images/Age.png)
 
 
 
