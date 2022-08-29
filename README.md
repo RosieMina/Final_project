@@ -35,7 +35,7 @@ Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/03d8d556a0c7ce0a2ad1e252c90bd760c902e7d3/images/Gender2.png)
 
 ## Suicide Rates Based on Generation
-![name-of-you-image](https://github.com/RosieMina/Final_project/blob/6607b39b3ffad2c9b86a4fe3aa3c40c787d77f15/images/Generation.png)
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/679beccb035e83a4bed80ac59f906b1625cb09c6/images/Generation2.png)
 
 ## Top Suicidal Regions
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/ee91e4ddd8bfe511d7338f9f83e768a5d7aee7e5/images/Regions.png)
