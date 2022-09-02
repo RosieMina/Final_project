@@ -43,9 +43,6 @@ Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
 ## Reported Suicides Throughout Time
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/dec8e6c30848d989d538013042fbad8ce41125ca/images/Time.png)
 
-## Suicide Rates in US Effected by GDP
-![name-of-you-image](https://github.com/RosieMina/Final_project/blob/adcba0a1598e94df148c44c8f261f25a6246b0cc/images/GDP.png)
-
 ## Suicide Rates by Age
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/0da8ff359d1db9e82e62d42787ee1da30acfc056/images/age1.png))
 
