@@ -54,7 +54,7 @@ Tableau Link (with Dashboard): https://public.tableau.com/app/profile/christian4
 ## Error with Postgres
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/f9169cfb9148f8ee80fbdb68c616cd5869a54ace/images/Error.png)
 
-We came across an error importing our csv onto the table. I and another team member tried importing the data on our own seperate computers and we came across the same issue. We tried joining office hours but because of the holidays we were unable to get a hold of anybody. 
+We came across an error importing our csv onto the table. I and another team member tried importing the data on our own seperate computers and we came across the same issue. There could possibly be an issue with how our data is being read in postgres. We tried joining office hours but because of the holidays we were unable to get a hold of anybody. 
 
 
 
