@@ -29,7 +29,7 @@
 - Tableau
 
 
-Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
+Tableau Link (with Dashboard) : https://public.tableau.com/app/profile/christian4489
 
 ## Suicides Rates Based on Gender
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/03d8d556a0c7ce0a2ad1e252c90bd760c902e7d3/images/Gender2.png)
