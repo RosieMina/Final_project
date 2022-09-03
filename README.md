@@ -51,5 +51,10 @@ Tableau Link (with Dashboard): https://public.tableau.com/app/profile/christian4
 ## Suicide Rates in the US effected by GDP
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/6c0ccfbd498272dab14706df63c6d41acab37ed8/images/Rates:%20GDP.png)
 
+## Error with Postgres
+![name-of-you-image]()
+
+We came across an error importing our csv onto the table. I and another team member tried importing the data on our own seperate computers and we came across the same error. 
+
 
 
