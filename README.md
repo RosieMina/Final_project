@@ -31,7 +31,7 @@
 Presentation on Google Slides: https://docs.google.com/presentation/d/1ZhKjlhzMuSY39G6pA4rqEmDx2M6RyK4O_1sr9s5b8ow/edit#slide=id.g14806ecf661_0_6
 
 
-Tableau Link (with Dashboard): https://public.tableau.com/app/profile/christian4489
+Tableau Link (with Dashboard): https://public.tableau.com/app/profile/christian4489/viz/Suicide_Regions-Tableau/SuicideRatesDashboard?publish=yes
 
 ## Suicides Rates Based on Gender
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/03d8d556a0c7ce0a2ad1e252c90bd760c902e7d3/images/Gender2.png)
