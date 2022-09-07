@@ -28,20 +28,34 @@
 - Jupyter Notbook
 - Tableau
 
+Presentation on Google Slides: https://docs.google.com/presentation/d/1ZhKjlhzMuSY39G6pA4rqEmDx2M6RyK4O_1sr9s5b8ow/edit#slide=id.g14806ecf661_0_6
 
-Tableau Link : https://public.tableau.com/app/profile/valeria.rodriguez2872
+
+Tableau Link (with Dashboard): https://public.tableau.com/app/profile/christian4489
 
 ## Suicides Rates Based on Gender
-![name-of-you-image](https://github.com/RosieMina/Final_project/blob/35ea0fef9bd842ca351f61bc6c37c90f96f26682/images/Gender.png)
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/03d8d556a0c7ce0a2ad1e252c90bd760c902e7d3/images/Gender2.png)
 
 ## Suicide Rates Based on Generation
-![name-of-you-image](https://github.com/RosieMina/Final_project/blob/6607b39b3ffad2c9b86a4fe3aa3c40c787d77f15/images/Generation.png)
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/679beccb035e83a4bed80ac59f906b1625cb09c6/images/Generation2.png)
 
 ## Top Suicidal Regions
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/ee91e4ddd8bfe511d7338f9f83e768a5d7aee7e5/images/Regions.png)
 
 ## Reported Suicides Throughout Time
 ![name-of-you-image](https://github.com/RosieMina/Final_project/blob/dec8e6c30848d989d538013042fbad8ce41125ca/images/Time.png)
+
+## Suicide Rates by Age
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/0da8ff359d1db9e82e62d42787ee1da30acfc056/images/age1.png))
+
+## Suicide Rates in the US effected by GDP
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/6c0ccfbd498272dab14706df63c6d41acab37ed8/images/Rates:%20GDP.png)
+
+## Error with Postgres
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/f9169cfb9148f8ee80fbdb68c616cd5869a54ace/images/Error.png)
+![name-of-you-image](https://github.com/RosieMina/Final_project/blob/c54aaa5704bfd82240e9628ee682a877a6c8bd55/images/error2.png)
+
+We came across an error importing our csv onto the table in order to create a database. I and another team member tried importing the data on our own seperate computers and we came across the same issue. We've also used both methods of creating a table and importing the data as well as copying the table when looking online for help. There could possibly be an issue with how our data is being read in postgres. We spoke to the TAs about this during class time and the error is still here. We also tried joining office hours but because of the holidays we were unable to get a hold of anybody. 
 
 
 
